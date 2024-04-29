@@ -60,7 +60,7 @@ To view Jupyter Notebook files without downloading, paste the URL of this reposi
 
 [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
 
-### Key References
+### Key Reference
 
 - Lim, B., Arık, S.Ö., Loeff, N., Pfister, T., 2021. Temporal fusion transformers for interpretable multi-horizon time series forecasting. *International Journal of Forecasting*, 37, pp.1748–1764.
 
